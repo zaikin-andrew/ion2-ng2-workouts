@@ -43,6 +43,15 @@
       "locator": "ios"
     }
   ],
-  "name": "ng2-ion2-myworkouts",
-  "description": "ng2-ion2-myworkouts: An Ionic project"
+  "name": "ion2-ng2-workouts",
+  "description": "ion2-ng2-workouts: An Ionic project",
+  "author": "Andrew Zaikin",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/zaikin-andrew/ion2-ng2-workouts"
+  },
+  "license": "MIT",
+  "scripts": {
+    "serve": "ionic serve"
+  }
 }
